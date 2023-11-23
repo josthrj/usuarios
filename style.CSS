@@ -1,0 +1,12 @@
+/* Archivo CSS personalizado */
+/* Estilos personalizados */
+
+/* Clase personalizada para aplicar fondo con color de advertencia */
+.container bg-warning {
+    background-color: #f0ad4e; /* Modifica el color de fondo según tu preferencia */
+    /* También puedes usar la clase bg-warning directamente si Bootstrap está correctamente configurado en tu proyecto */
+}
+
+body{
+    background-color: #f0ad4e;
+}
